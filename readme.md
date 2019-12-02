@@ -34,7 +34,7 @@ Deep Social Collobrative Ranking (DSCR) is a new recommendation framework tailor
          
          python3 DSCR.py --dataset epinion --regs [1e-5] --embed_size 64 --layer_size [64,64,64] --layer_size_S [64,64] --lr 0.0005 --batch_size 1024 --epoch 400 
    
-   + You need to specify serveral parameters for training and testing:
+    You need to specify serveral parameters for training and testing:
    
     + dataset: ciao / epinion
     + regs: regularization weight 
