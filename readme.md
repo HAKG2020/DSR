@@ -1,7 +1,7 @@
-# DSCR
+# DSR
 ## Introduction 
 
-Deep Social Collobrative Ranking (DSCR) is a new recommendation framework tailored to knowledge graph-based personalized recommendation. DSCR fully exploits both the social influence from potential friends and the collaborative influence from interactions for better embedding learning. 
+Deep Social Recommendation (DSR) is a new recommendation framework tailored to knowledge graph-based personalized recommendation. DSR fully exploits both the social influence from potential friends and the collaborative influence from interactions for better embedding learning. 
 
 ## Environment Requirement
 + Python == 3.7
