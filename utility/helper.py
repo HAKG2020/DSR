@@ -1,5 +1,3 @@
-
-__author__ = "xiangwang"
 import os
 import re
 
